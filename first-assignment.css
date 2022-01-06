@@ -77,6 +77,27 @@ h1{
 #Goals{
     background-color:#FFF4D6; 
 }
+.Global-Community{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position:right 90%;
+   
+    display: flex;
+    justify-content: space-around;
+    padding: 5%;
+    margin: 0 auto;
+}
+.develop-Without-limi{
+    background-image: url(images/pictures/my-bg.png);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    padding: 5%;
+}
 .bottom{
     background-color: #5E15E5;
     margin: 0% auto;
@@ -86,19 +107,7 @@ h1{
     color:#FFF4D6;
     
 }   
-.Global-Community{
-    background-image: url(images/shapes/shape-1.png);
-    background-repeat: no-repeat;
-    background-size: 100px;
-    background-position:right bottom,0% 0%;
-   
-}
-.develop-img{
-    background-image: url(images/shapes/shape-7.png);
-    background-size: 100px;
-    background-repeat: no-repeat;
-    background-position: left bottom, 0% -10%;
-}
+
 .link-s{
     font-size: 20px;
     color: white;
