@@ -1,0 +1,78 @@
+body{
+   
+    font-family: 'Poppins', sans-serif;
+    margin:0px;
+   
+}
+.text-border{
+    border-left: 4px aqua solid;
+    padding-left: 15px;
+}
+    
+
+.text-border h1{
+    font-size: 50px;
+    
+   
+}
+.text-color{
+    color: aqua;
+    margin-top: 10px;
+}
+.flaxibal-containar{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-bottom: 100px;
+    width: 90%;
+   
+}
+.half-width{
+    width: 50%;
+    padding: 10px;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width p{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+     background:aqua;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.mission-us{
+    text-align: center;
+   
+}
+h1{
+    font-size: 45px;
+}
+.year-color{
+    color: aqua;
+}
+.my-mission{
+    width: 400px;
+    border-radius: 10px;
+    width: 30%;
+    padding: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 20px;
+
+}
+
+#mission{
+    background-color: #EDF5F6;
+}
+#vission{
+    background-color: #FFEEEE;
+    
+}
+#Goals{
+    background-color:#FFF4D6; 
+}
+
