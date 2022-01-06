@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Island+Moments&family=The+Nautigal:wght@400;700&display=swap');
 body{
    
     font-family: 'Poppins', sans-serif;
@@ -82,18 +83,30 @@ h1{
     padding: 5%;
     color:#FFF4D6;
     
-
-
 }   
-.link{
+.link-s{
     font-size: 20px;
     color: white;
     text-decoration: none;
     transition: 1s;
+    padding: 10%;
 }
-.link :hover{
+.link-s :hover{
     color: yellow;
     cursor: pointer;
 }
-
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 25px 0px;
+    
+}
+.footr-text-color{
+    color: aqua;
+}
+#missin-2022{
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+}
 
